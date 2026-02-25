@@ -1,0 +1,18 @@
+# 智能客服工单系统 Demo 依赖
+
+# FastAPI
+fastapi>=0.100.0
+uvicorn>=0.23.0
+
+# Pydantic AI
+pydantic>=2.0.0
+pydantic-ai>=0.0.10
+
+# LLM
+openai>=1.0.0
+
+# Langfuse
+langfuse>=2.0.0
+
+# 工具
+python-dotenv>=1.0.0
